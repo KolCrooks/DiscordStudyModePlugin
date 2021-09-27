@@ -1,0 +1,14 @@
+{
+    "info": {
+        "name": "Study Mode",
+        "authors": [{
+            "name": "Kol"
+        }],
+        "version": "0.1.0",
+        "description": "Study mode limits how you interect with discord when study mode is enabled",
+        "github": "",
+        "github_raw": ""
+    },
+    "changelog": [],
+    "main": "index.js"
+}
